@@ -1,0 +1,2 @@
+These projects are designed to help beginners get comfortable with C++ basics, including variables, control flow, functions, arrays, and basic file handling. You can build on these projects as you grow more confident in your skills!
+Welcome to Altair World Baby!
